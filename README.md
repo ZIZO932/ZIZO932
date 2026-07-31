@@ -17,10 +17,9 @@ I like taking messy real-world problems, like agriculture in the Nile Delta, and
 
 ### 🌱 What I'm building
 
-- **[Terraskipper](https://github.com/ZIZO932/Terraskipper)** — mudskipper-inspired soft robot for precision agriculture in the Nile Delta. Custom KiCad PCB, onboard computer vision for soil classification, AI-based seed recommendation. Earth Prize Top 35 globally, IEEE CASS 1st place, covered by Mongabay and CGTN.
-- **EVA-RT Robotracer** — ground-up redesign of a line-follower robot for the TechnoXian World Cup in Malaysia, after a 1st place national win.
+- **Terraskipper** — mudskipper-inspired soft robot for precision agriculture in the Nile Delta. Custom KiCad PCB, onboard computer vision for soil classification, AI-based seed recommendation. Earth Prize Top 35 globally, IEEE CASS 1st place, covered by Mongabay and CGTN.
+- **Line Follower** — ground-up redesign of a line-follower robot for the TechnoXian World Cup in Malaysia, after a 1st place national win.
 - **VERDEX** — ESP32-based smart greenhouse with MQTT → Flask → Grafana monitoring and automated plant-profile control.
-- **Hybrid VAWT Research** — IEEE-format paper on a hybrid Darrieus-Savonius vertical-axis wind turbine, CFD in SolidWorks Flow Simulation.
 
 ### 🎓 Teaching & Leadership
 
@@ -62,4 +61,4 @@ I like taking messy real-world problems, like agriculture in the Nile Delta, and
 
 ---
 
-<p align="center"><i>Handball player and mentor at Campfire Giza when I'm not in the workshop 🤾</i></p>
+<p align="center"><i>Handball player🤾</i></p>
