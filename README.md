@@ -4,11 +4,6 @@
 <p align="center">
   A high school student and robotics builder from Giza, Egypt — leading <b>Terraskipper</b>, a mudskipper-inspired soft robot for precision agriculture, and Head of the Mechanical Track at <b>STEM Egypt Robotics Club (SERC)</b>.
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ZIZO932&label=Profile%20views&color=0e75b6&style=flat" alt="ZIZO932" />
-</p>
-
 ---
 
 ### 📌 About Me
@@ -27,17 +22,6 @@ I like taking messy real-world problems, like agriculture in the Nile Delta, and
 - **MAU (Model African Union)** — run social media for the club, helped organize two 1,000+ applicant conferences, and served as Head of Graphic Design.
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZIZO932&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ZIZO932&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZIZO932&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ### 🛠️ Tools & Tech
 
