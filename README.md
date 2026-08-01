@@ -8,7 +8,7 @@
 
 ### 📌 About Me
 
-I like taking messy real-world problems, like agriculture in the Nile Delta, and turning them into hardware that actually works. From custom PCBs to CAD to embedded firmware, I build the full stack of a robot from the ground up. When I'm not building, I'm teaching it, running the Mechanical Track at SERC and mentoring at Campfire Giza.
+I like taking messy real-world problems, and turning them into hardware that actually works. From custom PCBs to CAD to embedded firmware, I build the full stack of a robot from the ground up. When I'm not building, I'm teaching it.
 
 ### 🌱 What I'm building
 
